@@ -99,7 +99,7 @@ https://www.facebook.com/profile.php?id=100010785578689
 
 <!-- ![profile](githubPro.jpg) -->
 
-<img src="../github/githubPro.jpg" width="400">
+<img src="../github/githubPro.JPG" width="400">
 
 ### Table
 
