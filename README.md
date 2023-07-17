@@ -90,8 +90,8 @@ https://www.facebook.com/profile.php?id=100010785578689
 
 ### Markdown link Syntext
 
-[My profile](facebook)  
-[youtube link](youtube)
+[My profile][facebook]  
+[youtube link][youtube]
 
 ### image syntax
 
