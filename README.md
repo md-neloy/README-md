@@ -99,7 +99,7 @@ https://www.facebook.com/profile.php?id=100010785578689
 
 <!-- ![profile](githubPro.jpg) -->
 
-<img src="githubPro.JPG" width="400">
+<img src="githubPro.jpg" width="400">
 
 ### Table
 
@@ -109,5 +109,5 @@ https://www.facebook.com/profile.php?id=100010785578689
 
 <!-- All link is here -->
 
-[facebook]: https://www.facebook.com/profile.php?id=100010785578689;
+[facebook]: https://www.facebook.com/profile.php?id=100010785578689
 [youtube]: https://www.youtube.com
