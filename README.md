@@ -97,9 +97,9 @@ https://www.facebook.com/profile.php?id=100010785578689
 
 <!-- ![alt text] (image) -->
 
-![profile](../githubPro.jpg)
+<!-- ![profile](githubPro.jpg) -->
 
-<img src="../githubPro.jpg" width="400">
+<img src="../github/githubPro.jpg" width="400">
 
 ### Table
 
